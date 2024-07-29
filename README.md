@@ -82,7 +82,7 @@ make train_gpt2cu
 mpirun -np <number of GPUs on your machine> ./train_gpt2cu
 ```
 
-Sub in the number of GPUs you'd like to run on in the last command.
+Substitute in the number of GPUs you'd like to run on in the last command i.e. on <number of GPUs on your machine>.
 
 ## training: more detail
 
